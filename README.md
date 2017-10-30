@@ -38,6 +38,7 @@ When do we merge?
 	When you finish a user story
 	Check with pair (or someone who’s worked on this feature)
 	Check with a fellow
+	Inform the Gitmaster - only the Gitmaster merges
 
 When do we ask for help?
 	
