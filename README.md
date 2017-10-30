@@ -72,7 +72,7 @@ Calendar
 		Gitmaster - Dima
 		Testmaster - Minami
 	Wednesday November 1
-    Taskmaster - Jonathan
+    		Taskmaster - Jonathan
 		Gitmaster - Minami
 		Testmaster - Dima
 	Thursday November 2
