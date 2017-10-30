@@ -42,7 +42,7 @@ When do we merge?
 
 When do we ask for help?
 	
-15 minutes each
+	15 minutes each
 	Ask the internet
 	Ask partner
 	Ask every teammate
